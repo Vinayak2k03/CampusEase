@@ -23,4 +23,4 @@ To get started with CampusEase, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Vinayak2k03/CampusEase.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Start the development server: `npm run dev`
